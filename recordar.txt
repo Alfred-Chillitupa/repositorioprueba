@@ -1,0 +1,2 @@
+recuerda el comando
+git push origin master luego de los commits
